@@ -1,0 +1,12 @@
+Comandos de git
+
+git add
+git commit -m
+git checkout
+git clean
+git pull
+git push
+git branch 
+git merge
+
+
